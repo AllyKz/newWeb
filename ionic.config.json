@@ -1,0 +1,7 @@
+{
+  "name": "newWeb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
